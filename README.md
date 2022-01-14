@@ -1,0 +1,1 @@
+Hey, in this project, i am going to create a website for basic recipes, using HTML. I will practice all i learned about HTML using links, lists, images etc. At the end, it will be simple, mostly text based website for learning some recipes.
